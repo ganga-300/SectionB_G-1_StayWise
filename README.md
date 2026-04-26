@@ -40,13 +40,13 @@ If you are working in Google Colab:
 
 | Role | Name | GitHub Username |
 |---|---|---|
-| Project Lead | Deepak Mishra | `github-handle` |
+| Project Lead | Sarthak Mishra | `github-handle` |
 | Data Lead | Ganga Raghuwanshi | `github-handle` |
-| ETL Lead | Kunal Dev Sahu | `github-handle` |
-| Analysis Lead | Lakshay Yadav | `github-handle` |
-| Visualization Lead | Musthyala Sadhvik | `github-handle` |
-| Strategy Lead | Sarthak Mishra | `github-handle` |
-| PPT and Quality Lead | Soumen Dass | `github-handle` |
+| ETL Lead | Musthyala Sadhvik | `github-handle` |
+| Analysis Lead | Kunal Dev Sahu | `github-handle` |
+| Visualization Lead | Soumen Dass | `github-handle` |
+| Strategy Lead | Deepak Mishra | `github-handle` |
+| PPT and Quality Lead | Lakshay Yadav | `github-handle` |
 
 ---
 
