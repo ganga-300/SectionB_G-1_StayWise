@@ -32,20 +32,19 @@ If you are working in Google Colab:
 | **Sector** | Hospitality / Travel |
 | **Team ID** | G-1 |
 | **Section** | Section B |
-| **Faculty Mentor** | _To be filled by team_ |
 | **Institute** | Newton School of Technology |
-| **Submission Date** | _To be filled by team_ |
+| **Submission Date** | _28th April - 2026_ |
 
 ### Team Members
 
 | Role | Name | GitHub Username |
 |---|---|---|
-| Project Lead | Sarthak Mishra | `github-handle` |
-| Data Lead | Ganga Raghuwanshi | `github-handle` |
-| ETL Lead | Musthyala Sadhvik | `github-handle` |
-| Analysis Lead | Kunal Dev Sahu | `github-handle` |
-| Visualization Lead | Soumen Dass | `github-handle` |
-| Strategy Lead | Deepak Mishra | `github-handle` |
+| Project Lead | Sarthak Mishra | `mishrasarthak08` |
+| Data Lead | Ganga Raghuwanshi | `ganga-300` |
+| ETL Lead | Musthyala Sadhvik | `Sadhvik999` |
+| Analysis Lead | Kunal Dev Sahu | `kunaldevsahu` |
+| Visualization Lead | Soumen Dass | `error_001` |
+| Strategy Lead | Deepak Mishra | `interterrestrial` |
 | PPT and Quality Lead | Lakshay Yadav | `github-handle` |
 
 ---
