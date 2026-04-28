@@ -69,7 +69,7 @@ The hospitality industry depends heavily on occupancy rates, pricing strategies,
 | Attribute | Details |
 |---|---|
 | **Source Name** | Hotel Booking Demand Dataset (Kaggle) |
-| **Direct Access Link** | _[Dataset Link]_ |
+| **Direct Access Link** | _[[Dataset Link]](https://www.kaggle.com/datasets/hassanjameelahmed/hotel-data/data)_ |
 | **Row Count** | 119,209 (Raw) / 87,219 (Processed) |
 | **Column Count** | 49 (Raw) / 29 (Engineered) |
 | **Time Period Covered** | 2015 to 2017 |
