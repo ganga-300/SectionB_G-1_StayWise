@@ -223,25 +223,25 @@ The project follows a structured 7-step workflow:
 
 **Tableau Dashboard**
 
-- [ ] Published on Tableau Public and accessible via public URL
-- [ ] At least one interactive filter included
-- [ ] Dashboard directly addresses the business problem
+- [x] Published on Tableau Public and accessible via public URL
+- [x] At least one interactive filter included
+- [x] Dashboard directly addresses the business problem
 
 **Project Report**
 
-- [ ] Final report exported as PDF into `reports/`
-- [ ] Cover page, executive summary, sector context, problem statement
-- [ ] Data description, cleaning methodology, KPI framework
-- [ ] EDA with written insights, statistical analysis results
-- [ ] Dashboard screenshots and explanation
-- [ ] 8-12 key insights in decision language
-- [ ] 3-5 actionable recommendations with impact estimates
-- [ ] Contribution matrix matches GitHub history
+- [x] Final report exported as PDF into `reports/`
+- [x] Cover page, executive summary, sector context, problem statement
+- [x] Data description, cleaning methodology, KPI framework
+- [x] EDA with written insights, statistical analysis results
+- [x] Dashboard screenshots and explanation
+- [x] 8-12 key insights in decision language
+- [x] 3-5 actionable recommendations with impact estimates
+- [x] Contribution matrix matches GitHub history
 
 **Presentation Deck**
 
-- [ ] Final presentation exported as PDF into `reports/`
-- [ ] Title slide through recommendations, impact, limitations, and next steps
+- [x] Final presentation exported as PDF into `reports/`
+- [x] Title slide through recommendations, impact, limitations, and next steps
 
 **Individual Assets**
 
