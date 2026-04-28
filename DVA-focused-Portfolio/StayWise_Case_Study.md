@@ -12,7 +12,10 @@ The hospitality industry faces significant challenges with booking cancellations
 - **Feature Engineering**: Created multiple derived fields for analysis including `total_nights`, `total_guests`, `total_revenue`, `season`, `is_peak_season`, and `clv_proxy`.
 
 ## KPI Framework
-[ ]
+- **Cancellation Rate %**: Measures the severity of booking fall-throughs. Computed as `sum(is_canceled) / count(total_bookings) * 100`.
+- **Total Revenue**: Measures gross financial value generated per booking period. Computed as `(weekend_nights + week_nights) * ADR`.
+- **Revenue per Guest**: Evaluates relative profitability of different demographic segments. Computed as `total_revenue / total_guests`.
+- **CLV Proxy**: Estimates realized economic value, netting out revenue lost to cancellations. Computed as `total_revenue * (1 - is_canceled)`.
 
 ## 3-5 Key Insights
 1. **Cancellation Rates**: City Hotels experience a significantly higher cancellation rate compared to Resort Hotels.
