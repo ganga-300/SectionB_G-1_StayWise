@@ -270,21 +270,21 @@ The project follows a structured 7-step workflow:
 
 This table must match evidence in GitHub Insights, PR history, and committed files.
 
-| Team Member | Dataset and Sourcing | ETL and Cleaning | EDA and Analysis | Statistical Analysis | Tableau Dashboard | Report Writing | PPT and Viva |
+| Team Member | Dataset and Sourcing | ETL and Cleaning | EDA and Analysis | KPI Analysis | Tableau Dashboard | Report Writing | PPT and Viva |
 |---|---|---|---|---|---|---|---|
-| Deepak Mishra | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
-| Ganga Raghuwanshi | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
-| Kunal Dev Sahu | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
-| Lakshay Yadav | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
-| Musthyala Sadhvik | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
-| Sarthak Mishra | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
-| Soumen Dass | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
+| Deepak Mishra | - | - | - | ✓ | - | - | - |
+| Ganga Raghuwanshi | ✓ | - | - | - | - | - | - |
+| Kunal Dev Sahu | - | - | ✓ | - | - | - | - |
+| Lakshay Yadav | - | - | - | - | - | - | - |
+| Musthyala Sadhvik | - | ✓ | - | - | - | - | - |
+| Sarthak Mishra | - | - | - | - | - | ✓ | ✓ |
+| Soumen Dass | - | - | - | ✓ | - | - |
 
 _Declaration: We confirm that the above contribution details are accurate and verifiable through GitHub Insights, PR history, and submitted artifacts._
 
-**Team Lead Name:** _____________________________
+**Team Lead Name:** ____________Sarthak Mishra_________________
 
-**Date:** _______________
+**Date:** _______28th April - 2026________
 
 ---
 
