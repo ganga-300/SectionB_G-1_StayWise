@@ -26,7 +26,8 @@ The hospitality industry faces significant challenges with booking cancellations
 ![StayWise Dashboard Screenshot](../tableau/screenshots/StayWise.pdf)
 
 **Dashboard Link**:
-[ ]
+- [Dashboard 1: Executive Summary View](https://public.tableau.com/app/profile/soumen.dass/viz/StayWise-new1/StayWise-1)
+- [Dashboard 2: Operational Drill-Down View](https://public.tableau.com/app/profile/soumen.dass/viz/StayWise-new2/StayWise-2)
 
 ## Recommendations and Expected Impact
 - **Deposit Strategies**: Implement stricter non-refundable deposit policies for long lead-time bookings or specific high-risk market segments.
