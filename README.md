@@ -104,7 +104,9 @@ Document KPI logic clearly in `notebooks/04_statistical_analysis.ipynb` and `not
 
 | Item | Details |
 |---|---|
-| **Dashboard URL** | [ ] |
+| **Dashboard URL** | Dashboard-1: https://public.tableau.com/app/profile/soumen.dass/viz/StayWise-new1/StayWise-1
+
+Dashboard-2: https://public.tableau.com/app/profile/soumen.dass/viz/StayWise-new2/StayWise-2 |
 | **Executive View** | High-level summary showing total revenue, cancellation rate, and occupancy trends over time. |
 | **Operational View** | Drill-down into lead time categories, market segment performance, and deposit type correlations. |
 | **Main Filters** | Hotel Type (City/Resort), Year/Month, Market Segment, Customer Type |
