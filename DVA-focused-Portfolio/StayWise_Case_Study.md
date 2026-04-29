@@ -32,6 +32,15 @@ The hospitality industry faces significant challenges with booking cancellations
 - [Dashboard 1: Executive Summary View](https://public.tableau.com/app/profile/soumen.dass/viz/StayWise-new1/StayWise-1)
 - [Dashboard 2: Operational Drill-Down View](https://public.tableau.com/app/profile/soumen.dass/viz/StayWise-new2/StayWise-2)
 
+** Portfolio links:
+- Sarthak Mishra : 
+- Ganga Raghuwanshi : 
+- Mustyala Sadhvik : https://sadhvik999.github.io/dva_portfolio/
+- Kunal Dev Sahu :
+- Soumen Dass	:
+- Deepak Mishra :
+- Lakshay Yadav : https://lakshayx07.github.io/DVA-resume-portfolio-/
+
 ## Recommendations and Expected Impact
 - **Deposit Strategies**: Implement stricter non-refundable deposit policies for long lead-time bookings or specific high-risk market segments.
 - **Targeted Promotions**: Offer incentives for direct bookings to reduce reliance on third-party channels and decrease overall cancellation rates.
