@@ -34,7 +34,7 @@ The hospitality industry faces significant challenges with booking cancellations
 
 ** Portfolio links:
 - Sarthak Mishra : 
-- Ganga Raghuwanshi : 
+- Ganga Raghuwanshi : https://ganga-300.github.io/DVA_Portfolio/
 - Mustyala Sadhvik : https://sadhvik999.github.io/dva_portfolio/
 - Kunal Dev Sahu :
 - Soumen Dass	:
