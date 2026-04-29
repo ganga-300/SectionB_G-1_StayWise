@@ -33,7 +33,7 @@ The hospitality industry faces significant challenges with booking cancellations
 - [Dashboard 2: Operational Drill-Down View](https://public.tableau.com/app/profile/soumen.dass/viz/StayWise-new2/StayWise-2)
 
 ** Portfolio links:
-- Sarthak Mishra : 
+- Sarthak Mishra : https://mishrasarthak08.github.io/
 - Ganga Raghuwanshi : https://ganga-300.github.io/DVA_Portfolio/
 - Mustyala Sadhvik : https://sadhvik999.github.io/dva_portfolio/
 - Kunal Dev Sahu :
