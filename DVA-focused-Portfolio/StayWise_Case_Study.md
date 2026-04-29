@@ -38,7 +38,7 @@ The hospitality industry faces significant challenges with booking cancellations
 - Mustyala Sadhvik : https://sadhvik999.github.io/dva_portfolio/
 - Kunal Dev Sahu :
 - Soumen Dass	: https://soumendassdvaportfolio.vercel.app/
-- Deepak Mishra :
+- Deepak Mishra : https://github.com/interterrestrial
 - Lakshay Yadav : https://lakshayx07.github.io/DVA-resume-portfolio-/
 
 ## Recommendations and Expected Impact
